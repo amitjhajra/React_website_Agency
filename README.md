@@ -1,16 +1,110 @@
-# React + Vite
+# Digital Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Digital Agency Website built using React, Vite, and Tailwind CSS. The project features a clean UI, dark mode support, responsive layouts, and reusable components.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Responsive Design
+- Dark Mode Toggle
+- Modern UI/UX
+- Reusable React Components
+- Tailwind CSS Styling
+- Smooth Animations
+- Services Section
+- Team Section
+- Contact Section
+- Newsletter Footer
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+ ├── assets/
+ ├── components/
+ │    ├── Navbar.jsx
+ │    ├── Hero.jsx
+ │    ├── Services.jsx
+ │    ├── OurWork.jsx
+ │    ├── Team.jsx
+ │    ├── Contact.jsx
+ │    ├── Footer.jsx
+ │    └── ThemeToggleBtn.jsx
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Go to project directory:
+
+```bash
+cd PROJECT_NAME
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 👀 Preview Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12a35b9c-8e2e-49c4-81b0-7e472a337380" />
+
+
+---
+
+## 👨‍💻 Author
+
+**Amit Jhajra**
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
