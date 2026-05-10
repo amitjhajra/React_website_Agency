@@ -94,7 +94,20 @@ npm run preview
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12a35b9c-8e2e-49c4-81b0-7e472a337380" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cc62162-382e-4a43-9b4d-97a640511dbb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e93e5adc-1081-4243-b385-b7dd7a1b2ea8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70391327-fccc-49ea-80f3-8e2b036f1e38" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/537a02c7-438f-4000-97ef-2511ac2fa2cf" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/125e28d1-49de-44e5-b01f-d39e480223b9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbe2540e-a33d-41c0-872c-dba5f1685e4f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69edf5a0-132c-4c05-be21-a38e69633593" />
+
+
+
+
+
 
 
 ---
